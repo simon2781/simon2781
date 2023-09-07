@@ -2,7 +2,7 @@
 - 👀 I’m interested in Whittling and sports.
 - 🌱 I’m currently learning HTML, CSS, JavaScript and basic Python
 - 💞️ I’m looking to collaborate on new and exciting projects that are beneficial to the world.
-- 📫 How to reach me: X (twitter) @simon2781m 
+- 📫 How to reach me: X (twitter) @simon2781m  OR  Email simon2781@gmail.com
 
 <!---
 simon2781/simon2781 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
