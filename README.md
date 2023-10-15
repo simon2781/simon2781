@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @simon2781 I am starting a skills bootcamp with EdX skill sfor life!
 - 👀 I’m interested in Whittling and sports.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and basic Python
+- 🌱 I’m currently learning HTML, CSS, CSS Grid and Bootstrap
 - 💞️ I’m looking to collaborate on new and exciting projects that are beneficial to the world.
 - 📫 How to reach me: X (twitter) @simon2781m  OR  Email simon2781@gmail.com
 
